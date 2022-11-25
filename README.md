@@ -4,9 +4,7 @@
 
 在通讯录文件中增加、删除、修改通讯录记录，浏览文件中的通讯录记录。
 
-![image](https://user-images.githubusercontent.com/118668181/204017099-94e70c2b-5303-4d16-8ee8-57c1cc9782ad.png)
+![image](https://user-images.githubusercontent.com/118668181/204017410-5e458eac-94b1-446a-876a-eb843059f5a5.png)
 
-![image](https://user-images.githubusercontent.com/118668181/204016815-95f03c58-11f1-4510-a052-ec8f243d905a.png)
-
-![image](https://user-images.githubusercontent.com/118668181/204016967-5843eba5-8ad9-47ac-9fbf-16b104ab744a.png)
+![image](https://user-images.githubusercontent.com/118668181/204017514-20ed468b-bf81-4289-8867-b1948046aa47.png)
 
